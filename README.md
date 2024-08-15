@@ -21,5 +21,12 @@ This project focuses on developing an image classification model that can identi
 │   ├── model.py
 │   └── train.py
 ├── results/                # Directory to save results (e.g., plots, metrics)
-├── README.md               # Project overview and instructions
-└── requirements.txt        # Required Python packages
+└── README.md               # Project overview and instructions
+
+```
+### Required Packages
+
+- **TensorFlow**: For building and training the neural network model.
+- **NumPy**: For numerical operations and data manipulation.
+- **Matplotlib**: For visualizing results and plotting graphs.
+- **OpenCV** (Optional): For advanced image processing techniques, if needed.
